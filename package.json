@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.7",
+    "tailwindcss": "^3.0.23"
+  },
+  "dependencies": {
+    "vite": "^2.8.6"
+  },
+  "name": "gym-website",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "runserver": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
