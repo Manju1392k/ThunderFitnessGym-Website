@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/66934377/156913541-b8502449-812c-4982-
 
 # Framework 
 
-The Below Table Framework's is used in this Project. To run this Project. This framework has been installed in system with same Version or Lastest Version
+The Below Table Framework's is used in this Project. To run this Project. This framework has been installed in system with same Version or Latest Version
 
 | Framewokr  | Version |
 | ------------- | ------------- |
