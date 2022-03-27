@@ -26,5 +26,3 @@ The Below Table Framework's is used in this Project. To run this Project. This f
 | ------------- | ------------- |
 | TailWindCss  | 3.0  |
 | Node.js  | 16.14.0  |
-
-
