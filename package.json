@@ -5,7 +5,7 @@
     "tailwindcss": "^3.0.23"
   },
   "dependencies": {
-    "vite": "^2.9.13"
+    "vite": "^2.9.16"
   },
   "name": "gym-website",
   "version": "1.0.0",
